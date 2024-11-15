@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro\\OneDrive\\Desktop\\asd\\Facultad\\plan 2024\\Progra2\\Solucion_04\\WebApi_TurnosPeluqueria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9A1A61-947A-48F2-827A-2C210E68BE37}|WebApi_TurnosPeluqueria.csproj|c:\\users\\pedro\\onedrive\\desktop\\asd\\facultad\\plan 2024\\progra2\\solucion_04\\webapi_turnospeluqueria\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9A1A61-947A-48F2-827A-2C210E68BE37}|WebApi_TurnosPeluqueria.csproj|solutionrelative:controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9A1A61-947A-48F2-827A-2C210E68BE37}|WebApi_TurnosPeluqueria.csproj|c:\\users\\pedro\\onedrive\\desktop\\asd\\facultad\\plan 2024\\progra2\\solucion_04\\webapi_turnospeluqueria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9A1A61-947A-48F2-827A-2C210E68BE37}|WebApi_TurnosPeluqueria.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9A1A61-947A-48F2-827A-2C210E68BE37}|WebApi_TurnosPeluqueria.csproj|c:\\users\\pedro\\onedrive\\desktop\\asd\\facultad\\plan 2024\\progra2\\solucion_04\\webapi_turnospeluqueria\\models\\dbturnoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9A1A61-947A-48F2-827A-2C210E68BE37}|WebApi_TurnosPeluqueria.csproj|solutionrelative:models\\dbturnoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9A1A61-947A-48F2-827A-2C210E68BE37}|WebApi_TurnosPeluqueria.csproj|c:\\users\\pedro\\onedrive\\desktop\\asd\\facultad\\plan 2024\\progra2\\solucion_04\\webapi_turnospeluqueria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C9A1A61-947A-48F2-827A-2C210E68BE37}|WebApi_TurnosPeluqueria.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9A1A61-947A-48F2-827A-2C210E68BE37}|WebApi_TurnosPeluqueria.csproj|c:\\users\\pedro\\onedrive\\desktop\\asd\\facultad\\plan 2024\\progra2\\solucion_04\\webapi_turnospeluqueria\\repositories\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9A1A61-947A-48F2-827A-2C210E68BE37}|WebApi_TurnosPeluqueria.csproj|solutionrelative:repositories\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9A1A61-947A-48F2-827A-2C210E68BE37}|WebApi_TurnosPeluqueria.csproj|c:\\users\\pedro\\onedrive\\desktop\\asd\\facultad\\plan 2024\\progra2\\solucion_04\\webapi_turnospeluqueria\\repositories\\interfaces\\iserviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9A1A61-947A-48F2-827A-2C210E68BE37}|WebApi_TurnosPeluqueria.csproj|solutionrelative:repositories\\interfaces\\iserviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9A1A61-947A-48F2-827A-2C210E68BE37}|WebApi_TurnosPeluqueria.csproj|c:\\users\\pedro\\onedrive\\desktop\\asd\\facultad\\plan 2024\\progra2\\solucion_04\\webapi_turnospeluqueria\\webapi_turnospeluqueria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C9A1A61-947A-48F2-827A-2C210E68BE37}|WebApi_TurnosPeluqueria.csproj|solutionrelative:webapi_turnospeluqueria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\asd\\Facultad\\plan 2024\\Progra2\\Solucion_04\\WebApi_TurnosPeluqueria\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\asd\\Facultad\\plan 2024\\Progra2\\Solucion_04\\WebApi_TurnosPeluqueria\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "Controllers\\ServiciosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:11:39.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\asd\\Facultad\\plan 2024\\Progra2\\Solucion_04\\WebApi_TurnosPeluqueria\\Repositories\\ServicioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ServicioRepository.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\asd\\Facultad\\plan 2024\\Progra2\\Solucion_04\\WebApi_TurnosPeluqueria\\Repositories\\ServicioRepository.cs",
+              "RelativeToolTip": "Repositories\\ServicioRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:59:05.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IServicioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\asd\\Facultad\\plan 2024\\Progra2\\Solucion_04\\WebApi_TurnosPeluqueria\\Repositories\\Interfaces\\IServicioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IServicioRepository.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\asd\\Facultad\\plan 2024\\Progra2\\Solucion_04\\WebApi_TurnosPeluqueria\\Repositories\\Interfaces\\IServicioRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IServicioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:58:09.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\asd\\Facultad\\plan 2024\\Progra2\\Solucion_04\\WebApi_TurnosPeluqueria\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\asd\\Facultad\\plan 2024\\Progra2\\Solucion_04\\WebApi_TurnosPeluqueria\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T17:43:34.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApi_TurnosPeluqueria",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\asd\\Facultad\\plan 2024\\Progra2\\Solucion_04\\WebApi_TurnosPeluqueria\\WebApi_TurnosPeluqueria.csproj",
+              "RelativeDocumentMoniker": "WebApi_TurnosPeluqueria.csproj",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\asd\\Facultad\\plan 2024\\Progra2\\Solucion_04\\WebApi_TurnosPeluqueria\\WebApi_TurnosPeluqueria.csproj",
+              "RelativeToolTip": "WebApi_TurnosPeluqueria.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T17:39:14.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\asd\\Facultad\\plan 2024\\Progra2\\Solucion_04\\WebApi_TurnosPeluqueria\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\asd\\Facultad\\plan 2024\\Progra2\\Solucion_04\\WebApi_TurnosPeluqueria\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:29:23.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbTurnosContext.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\OneDrive\\Desktop\\asd\\Facultad\\plan 2024\\Progra2\\Solucion_04\\WebApi_TurnosPeluqueria\\Models\\dbTurnosContext.cs",
+              "RelativeDocumentMoniker": "Models\\dbTurnosContext.cs",
+              "ToolTip": "C:\\Users\\pedro\\OneDrive\\Desktop\\asd\\Facultad\\plan 2024\\Progra2\\Solucion_04\\WebApi_TurnosPeluqueria\\Models\\dbTurnosContext.cs",
+              "RelativeToolTip": "Models\\dbTurnosContext.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:28:49.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
